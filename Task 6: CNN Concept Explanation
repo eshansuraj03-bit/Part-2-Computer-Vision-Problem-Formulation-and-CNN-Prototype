@@ -1,0 +1,35 @@
+What is Convolution?
+Convolution is a mathematical operation where small filters move across an image to detect important patterns such as:
+Edges
+Shapes
+Textures
+Corners
+CNNs automatically learn these filters during training.
+
+Why is Pooling Used?
+Pooling helps reduce image size while preserving important features.
+
+Benefits:
+Reduces computation
+Prevents overfitting
+Makes training faster
+Keeps important visual information
+Max pooling is commonly used in CNNs.
+
+Why is ReLU Commonly Used?
+ReLU stands for Rectified Linear Unit.
+f(x)=max(0,x)
+
+Advantages:
+Faster learning
+Solves vanishing gradient problem
+Introduces non-linearity
+Why are CNNs Better than Regular Feed-Forward Networks for Images?
+
+CNNs are better because they:
+Preserve spatial relationships
+Automatically learn features
+Use fewer parameters
+Work efficiently on image data
+
+Feed-forward networks flatten images and lose spatial information.
