@@ -1,0 +1,15 @@
+Selected Problem Type: Image Classification
+This dataset represents an image classification problem.
+
+Why?
+The dataset contains images grouped into predefined categories/classes. Each image belongs to exactly one class label.
+The goal of the model is to:
+Read the input image
+Learn visual patterns from the image
+Predict the correct class label
+
+Unlike object detection or segmentation, the task does not require:
+Detecting object locations
+Drawing bounding boxes
+Pixel-level segmentation
+Therefore, image classification is the most suitable computer vision problem type.
